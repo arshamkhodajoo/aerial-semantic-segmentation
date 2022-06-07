@@ -1,1 +1,1 @@
-from ..nn.unet import DyUnetModel2D
+from ..nn.unet import DyUnetModel2D, UpSamplingOptions
